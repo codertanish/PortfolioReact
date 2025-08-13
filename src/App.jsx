@@ -150,8 +150,8 @@ function App() {
           </Reveal>
           <Reveal delay={220}>
             <div className="flex justify-center gap-8 text-base">
-              <a href="mailto:tanish@example.com" className={underlineConnect}>Email</a>
-              <a href="https://github.com/tanish" className={underlineConnect}>GitHub</a>
+              <a href="mailto:tanishrastogi2020@gmail.com" className={underlineConnect}>Email</a>
+              <a href="https://github.com/codertanish" className={underlineConnect}>GitHub</a>
             </div>
           </Reveal>
         </div>
