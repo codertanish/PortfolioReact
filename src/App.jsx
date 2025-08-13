@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { Typewriter } from 'react-simple-typewriter';
+import React from 'react';
 
 const useReveal = (threshold = 0.15) => {
   const ref = useRef(null);
